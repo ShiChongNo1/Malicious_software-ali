@@ -3,4 +3,4 @@
 ## 1. 数据集
  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   https://tianchi.aliyun.com/competition/entrance/231694/information
 ## 2. 方案及结果
->  1. Baseline: LightGBM + 祖传参数  &nbsp;&nbsp; &nbsp; score：
+>  1. Baseline: LightGBM + 祖传参数  &nbsp;&nbsp; &nbsp; score： 0.500
